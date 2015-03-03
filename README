@@ -1,0 +1,6 @@
+This is a small collection of PHP practices with objects.
+car.php processes input from car_form.html and outputs available cars based on the query
+parcel.php processes input from parcel_form.html and outputs the cost of shipping a package
+triangle.php processes input from triangle_form.html and outputs the properties of a given triange
+
+Created by Daniel Toader and Evan Butler on March 02, 2015 at Epicodus.
